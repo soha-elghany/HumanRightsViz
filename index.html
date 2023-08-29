@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Freedom House 2023</title>
+    <script src=https://d3js.org/d3.v6.min.js></script>
+    <link rel="stylesheet" href="./styles.css">    
+  </head>
+
+  <body>
+    <div id="wrapper">
+      <div id="header">Human Rights Facors by country (2022)</div>
+      <div id="controls">
+        <div class="menu">
+          <div class="items"></div>
+        </div>
+        <div class="legend">
+          <svg width="70" height="70">
+            <g transform="translate(35,35)">
+              <circle />
+              <text>1</text>
+            </g>
+          </svg>
+        </div>
+      </div>
+      <div id="chart-wrapper">
+        <svg width="1200" height="1250">
+          <g id="chart"></g>
+        </svg>
+        <p>Data Source https://ourworldindata.org</p>
+        <p>Built by Soha Elghany and inspired by Peter Cook D3 start to finish</p>
+      </div>
+    </div>
+
+    <script src="./popup-v1.1.1.min.js"></script>
+    <script src="./lodash.min.js"></script>
+
+
+    <script src="./config.js"></script>
+    <script src="./store.js"></script>
+    <script src="./layout.js"></script>
+    <script src="./update.js"></script>
+    <script src="./popup.js"></script>
+    <script src="./menu.js"></script>
+    <script src="./main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,1248 @@
+[
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "electoral": "0.082",
+        "women": "0.035",
+        "liberty": "0.038"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "electoral": "0.484",
+        "women": "0.892",
+        "liberty": "0.873"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "electoral": "0.281",
+        "women": "0.621",
+        "liberty": "0.491"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "electoral": "0.344",
+        "women": "0.741",
+        "liberty": "0.61"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "electoral": "0.823",
+        "women": "0.876",
+        "liberty": "0.878"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "electoral": "0.645",
+        "women": "0.886",
+        "liberty": "0.885"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "electoral": "0.858",
+        "women": "0.937",
+        "liberty": "0.93"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "electoral": "0.794",
+        "women": "0.916",
+        "liberty": "0.901"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "electoral": "0.188",
+        "women": "0.629",
+        "liberty": "0.353"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "electoral": "0.122",
+        "women": "0.559",
+        "liberty": "0.281"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "electoral": "0.274",
+        "women": "0.684",
+        "liberty": "0.472"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "electoral": "0.782",
+        "women": "0.907",
+        "liberty": "0.925"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "electoral": "0.175",
+        "women": "0.681",
+        "liberty": "0.228"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "electoral": "0.887",
+        "women": "0.954",
+        "liberty": "0.956"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "electoral": "0.45",
+        "women": "0.823",
+        "liberty": "0.824"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "electoral": "0.535",
+        "women": "0.728",
+        "liberty": "0.656"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "electoral": "0.597",
+        "women": "0.818",
+        "liberty": "0.823"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "electoral": "0.528",
+        "women": "0.828",
+        "liberty": "0.812"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "electoral": "0.577",
+        "women": "0.721",
+        "liberty": "0.835"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "electoral": "0.678",
+        "women": "0.728",
+        "liberty": "0.638"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "electoral": "0.688",
+        "women": "0.924",
+        "liberty": "0.902"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "electoral": "0.295",
+        "women": "0.511",
+        "liberty": "0.775"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "electoral": "0.189",
+        "women": "0.657",
+        "liberty": "0.273"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "electoral": "0.206",
+        "women": "0.527",
+        "liberty": "0.328"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "electoral": "0.297",
+        "women": "0.764",
+        "liberty": "0.58"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "electoral": "0.847",
+        "women": "0.885",
+        "liberty": "0.918"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "electoral": "0.75",
+        "women": "0.832",
+        "liberty": "0.92"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "electoral": "0.321",
+        "women": "0.626",
+        "liberty": "0.487"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "electoral": "0.14",
+        "women": "0.44",
+        "liberty": "0.261"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "electoral": "0.811",
+        "women": "0.907",
+        "liberty": "0.902"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "electoral": "0.075",
+        "women": "0.602",
+        "liberty": "0.174"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "electoral": "0.689",
+        "women": "0.757",
+        "liberty": "0.765"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "electoral": "0.284",
+        "women": "0.543",
+        "liberty": "0.495"
+    },
+    {
+        "Entity": "Congo",
+        "Code": "COG",
+        "electoral": "0.234",
+        "women": "0.388",
+        "liberty": "0.274"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "electoral": "0.871",
+        "women": "0.919",
+        "liberty": "0.941"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "electoral": "0.437",
+        "women": "0.734",
+        "liberty": "0.725"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "electoral": "0.738",
+        "women": "0.921",
+        "liberty": "0.875"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "electoral": "0.178",
+        "women": "0.677",
+        "liberty": "0.248"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "electoral": "0.777",
+        "women": "0.826",
+        "liberty": "0.89"
+    },
+    {
+        "Entity": "Czechia",
+        "Code": "CZE",
+        "electoral": "0.853",
+        "women": "0.936",
+        "liberty": "0.952"
+    },
+    {
+        "Entity": "Democratic Republic of Congo",
+        "Code": "COD",
+        "electoral": "0.337",
+        "women": "0.572",
+        "liberty": "0.524"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "electoral": "0.916",
+        "women": "0.961",
+        "liberty": "0.96"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "electoral": "0.255",
+        "women": "0.598",
+        "liberty": "0.409"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "electoral": "0.679",
+        "women": "0.853",
+        "liberty": "0.895"
+    },
+    {
+        "Entity": "East Timor",
+        "Code": "TLS",
+        "electoral": "0.695",
+        "women": "0.78",
+        "liberty": "0.857"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "electoral": "0.657",
+        "women": "0.865",
+        "liberty": "0.899"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "electoral": "0.175",
+        "women": "0.498",
+        "liberty": "0.202"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "electoral": "0.378",
+        "women": "0.614",
+        "liberty": "0.618"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "electoral": "0.172",
+        "women": "0.452",
+        "liberty": "0.212"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "electoral": "0.073",
+        "women": "0.188",
+        "liberty": "0.076"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "electoral": "0.893",
+        "women": "0.935",
+        "liberty": "0.959"
+    },
+    {
+        "Entity": "Eswatini",
+        "Code": "SWZ",
+        "electoral": "0.12",
+        "women": "0.3",
+        "liberty": "0.179"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "electoral": "0.319",
+        "women": "0.758",
+        "liberty": "0.472"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "electoral": "0.406",
+        "women": "0.69",
+        "liberty": "0.687"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "electoral": "0.861",
+        "women": "0.947",
+        "liberty": "0.955"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "electoral": "0.874",
+        "women": "0.937",
+        "liberty": "0.921"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "electoral": "0.369",
+        "women": "0.783",
+        "liberty": "0.816"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "electoral": "0.62",
+        "women": "0.805",
+        "liberty": "0.88"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "electoral": "0.647",
+        "women": "0.895",
+        "liberty": "0.883"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "electoral": "0.857",
+        "women": "0.954",
+        "liberty": "0.953"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "electoral": "0.633",
+        "women": "0.84",
+        "liberty": "0.889"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "electoral": "0.783",
+        "women": "0.932",
+        "liberty": "0.893"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "electoral": "0.435",
+        "women": "0.683",
+        "liberty": "0.678"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "electoral": "0.191",
+        "women": "0.375",
+        "liberty": "0.345"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "electoral": "0.371",
+        "women": "0.612",
+        "liberty": "0.72"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "electoral": "0.535",
+        "women": "0.842",
+        "liberty": "0.846"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "electoral": "0.248",
+        "women": "0.326",
+        "liberty": "0.632"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "electoral": "0.556",
+        "women": "0.789",
+        "liberty": "0.817"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "electoral": "0.154",
+        "women": "0.817",
+        "liberty": "0.615"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "electoral": "0.445",
+        "women": "0.861",
+        "liberty": "0.838"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "electoral": "0.819",
+        "women": "0.931",
+        "liberty": "0.954"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "electoral": "0.399",
+        "women": "0.678",
+        "liberty": "0.569"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "electoral": "0.574",
+        "women": "0.726",
+        "liberty": "0.768"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "electoral": "0.182",
+        "women": "0.394",
+        "liberty": "0.22"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "electoral": "0.362",
+        "women": "0.466",
+        "liberty": "0.448"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "electoral": "0.889",
+        "women": "0.924",
+        "liberty": "0.96"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "electoral": "0.723",
+        "women": "0.895",
+        "liberty": "0.854"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "electoral": "0.844",
+        "women": "0.939",
+        "liberty": "0.928"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "electoral": "0.797",
+        "women": "0.952",
+        "liberty": "0.905"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "electoral": "0.833",
+        "women": "0.794",
+        "liberty": "0.93"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "electoral": "0.259",
+        "women": "0.609",
+        "liberty": "0.612"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "electoral": "0.277",
+        "women": "0.794",
+        "liberty": "0.519"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "electoral": "0.522",
+        "women": "0.804",
+        "liberty": "0.737"
+    },
+    {
+        "Entity": "Kosovo",
+        "Code": "OWID_KOS",
+        "electoral": "0.618",
+        "women": "0.76",
+        "liberty": "0.804"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "electoral": "0.317",
+        "women": "0.378",
+        "liberty": "0.564"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "electoral": "0.382",
+        "women": "0.708",
+        "liberty": "0.649"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "electoral": "0.134",
+        "women": "0.513",
+        "liberty": "0.146"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "electoral": "0.821",
+        "women": "0.953",
+        "liberty": "0.945"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "electoral": "0.426",
+        "women": "0.611",
+        "liberty": "0.664"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "electoral": "0.641",
+        "women": "0.825",
+        "liberty": "0.825"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "electoral": "0.634",
+        "women": "0.846",
+        "liberty": "0.86"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "electoral": "0.213",
+        "women": "0.422",
+        "liberty": "0.357"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "electoral": "0.797",
+        "women": "0.935",
+        "liberty": "0.92"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "electoral": "0.881",
+        "women": "0.915",
+        "liberty": "0.952"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "electoral": "0.495",
+        "women": "0.755",
+        "liberty": "0.741"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "electoral": "0.642",
+        "women": "0.84",
+        "liberty": "0.858"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "electoral": "0.438",
+        "women": "0.796",
+        "liberty": "0.73"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "electoral": "0.583",
+        "women": "0.553",
+        "liberty": "0.703"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "electoral": "0.235",
+        "women": "0.739",
+        "liberty": "0.745"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "electoral": "0.782",
+        "women": "0.907",
+        "liberty": "0.895"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "electoral": "0.395",
+        "women": "0.612",
+        "liberty": "0.602"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "electoral": "0.521",
+        "women": "0.81",
+        "liberty": "0.737"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "electoral": "0.598",
+        "women": "0.773",
+        "liberty": "0.682"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "electoral": "0.752",
+        "women": "0.92",
+        "liberty": "0.901"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "electoral": "0.566",
+        "women": "0.814",
+        "liberty": "0.838"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "electoral": "0.501",
+        "women": "0.871",
+        "liberty": "0.882"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "electoral": "0.264",
+        "women": "0.766",
+        "liberty": "0.629"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "electoral": "0.362",
+        "women": "0.752",
+        "liberty": "0.615"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "electoral": "0.093",
+        "women": "0.438",
+        "liberty": "0.113"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "electoral": "0.634",
+        "women": "0.834",
+        "liberty": "0.862"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "electoral": "0.646",
+        "women": "0.768",
+        "liberty": "0.755"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "electoral": "0.852",
+        "women": "0.887",
+        "liberty": "0.924"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "electoral": "0.889",
+        "women": "0.949",
+        "liberty": "0.963"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "electoral": "0.177",
+        "women": "0.614",
+        "liberty": "0.194"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "electoral": "0.511",
+        "women": "0.77",
+        "liberty": "0.812"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "electoral": "0.49",
+        "women": "0.694",
+        "liberty": "0.642"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "electoral": "0.087",
+        "women": "0.302",
+        "liberty": "0.024"
+    },
+    {
+        "Entity": "North Macedonia",
+        "Code": "MKD",
+        "electoral": "0.551",
+        "women": "0.821",
+        "liberty": "0.795"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "electoral": "0.899",
+        "women": "0.901",
+        "liberty": "0.941"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "electoral": "0.17",
+        "women": "0.377",
+        "liberty": "0.451"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "electoral": "0.388",
+        "women": "0.581",
+        "liberty": "0.512"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "electoral": "0.729",
+        "women": "0.823",
+        "liberty": "0.889"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "electoral": "0.458",
+        "women": "0.491",
+        "liberty": "0.819"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "electoral": "0.581",
+        "women": "0.706",
+        "liberty": "0.801"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "electoral": "0.744",
+        "women": "0.809",
+        "liberty": "0.854"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "electoral": "0.431",
+        "women": "0.815",
+        "liberty": "0.542"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "electoral": "0.574",
+        "women": "0.828",
+        "liberty": "0.819"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "electoral": "0.846",
+        "women": "0.927",
+        "liberty": "0.917"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "electoral": "0.088",
+        "women": "0.316",
+        "liberty": "0.357"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "electoral": "0.689",
+        "women": "0.872",
+        "liberty": "0.872"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "electoral": "0.209",
+        "women": "0.665",
+        "liberty": "0.309"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "electoral": "0.228",
+        "women": "0.753",
+        "liberty": "0.236"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "electoral": "0.684",
+        "women": "0.87",
+        "liberty": "0.884"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "electoral": "0.016",
+        "women": "0.293",
+        "liberty": "0.144"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "electoral": "0.69",
+        "women": "0.865",
+        "liberty": "0.876"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "electoral": "0.361",
+        "women": "0.893",
+        "liberty": "0.786"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "electoral": "0.761",
+        "women": "0.912",
+        "liberty": "0.898"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "electoral": "0.559",
+        "women": "0.79",
+        "liberty": "0.805"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "electoral": "0.425",
+        "women": "0.802",
+        "liberty": "0.705"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "electoral": "0.851",
+        "women": "0.903",
+        "liberty": "0.927"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "electoral": "0.799",
+        "women": "0.949",
+        "liberty": "0.923"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "electoral": "0.618",
+        "women": "0.623",
+        "liberty": "0.85"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "electoral": "0.162",
+        "women": "0.384",
+        "liberty": "0.303"
+    },
+    {
+        "Entity": "Somaliland",
+        "Code": "OWID_SML",
+        "electoral": "0.421",
+        "women": "0.46",
+        "liberty": "0.684"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "electoral": "0.692",
+        "women": "0.84",
+        "liberty": "0.818"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "electoral": "0.812",
+        "women": "0.882",
+        "liberty": "0.92"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "electoral": "0.129",
+        "women": "0.402",
+        "liberty": "0.168"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "electoral": "0.873",
+        "women": "0.954",
+        "liberty": "0.955"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "electoral": "0.575",
+        "women": "0.688",
+        "liberty": "0.686"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "electoral": "0.169",
+        "women": "0.311",
+        "liberty": "0.307"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "electoral": "0.77",
+        "women": "0.843",
+        "liberty": "0.892"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "electoral": "0.899",
+        "women": "0.939",
+        "liberty": "0.966"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "electoral": "0.898",
+        "women": "0.94",
+        "liberty": "0.958"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "electoral": "0.138",
+        "women": "0.29",
+        "liberty": "0.089"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "electoral": "0.831",
+        "women": "0.916",
+        "liberty": "0.933"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "electoral": "0.175",
+        "women": "0.421",
+        "liberty": "0.204"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "electoral": "0.398",
+        "women": "0.842",
+        "liberty": "0.785"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "electoral": "0.206",
+        "women": "0.669",
+        "liberty": "0.386"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "electoral": "0.426",
+        "women": "0.784",
+        "liberty": "0.717"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "electoral": "0.784",
+        "women": "0.895",
+        "liberty": "0.903"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "electoral": "0.307",
+        "women": "0.812",
+        "liberty": "0.754"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "electoral": "0.276",
+        "women": "0.552",
+        "liberty": "0.327"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "electoral": "0.149",
+        "women": "0.429",
+        "liberty": "0.111"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "electoral": "0.285",
+        "women": "0.696",
+        "liberty": "0.394"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "electoral": "0.406",
+        "women": "0.879",
+        "liberty": "0.614"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "electoral": "0.101",
+        "women": "0.587",
+        "liberty": "0.355"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "electoral": "0.843",
+        "women": "0.927",
+        "liberty": "0.891"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "electoral": "0.819",
+        "women": "0.906",
+        "liberty": "0.928"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "electoral": "0.804",
+        "women": "0.879",
+        "liberty": "0.92"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "electoral": "0.221",
+        "women": "0.645",
+        "liberty": "0.379"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "electoral": "0.771",
+        "women": "0.701",
+        "liberty": "0.873"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "electoral": "0.214",
+        "women": "0.765",
+        "liberty": "0.374"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "electoral": "0.157",
+        "women": "0.723",
+        "liberty": "0.388"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "electoral": "0.497",
+        "women": "0.72427374",
+        "liberty": "0.6675754"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "electoral": "0.123",
+        "women": "0.17",
+        "liberty": "0.176"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "electoral": "0.518",
+        "women": "0.807",
+        "liberty": "0.825"
+    },
+    {
+        "Entity": "Zanzibar",
+        "Code": "OWID_ZAN",
+        "electoral": "0.284",
+        "women": "0.7",
+        "liberty": "0.672"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "electoral": "0.285",
+        "women": "0.784",
+        "liberty": "0.388"
+    }
+]
